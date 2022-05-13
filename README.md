@@ -1,1 +1,2 @@
 # Horiseon
+# A webpage that is about utilizing the webs ability to find your website using the correct html aspects, i fixed some of the buttons and simplified a good few of the css aspects. I made it so the home button took you home, and also added alt elements to the pictures.
