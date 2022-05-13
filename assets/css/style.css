@@ -161,17 +161,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
+img {
+    max-height: 200px
 }
 
 .search-engine-optimization h2 {
